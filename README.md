@@ -1,5 +1,5 @@
 # homebrew-tap
-A [Homebrew tap](https://docs.brew.sh/Taps) containing [alternate versions](https://github.com/Homebrew/homebrew-cask-versions) of [casks](https://caskroom.io/).
+A public [Homebrew tap](https://docs.brew.sh/Taps) containing [alternate versions](https://github.com/Homebrew/homebrew-cask-versions) of [casks](https://caskroom.io/).
 
 # Background
 Casks cannot be versioned.  Running `brew cask install my_app` will install whichever version of `my_app` the cask is designed to install.  You get what you get, which is often the latest available version of an application.
